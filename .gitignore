@@ -141,3 +141,8 @@ cython_debug/
 
 # tensorboard
 log/
+
+# data
+
+.DS_Store
+intro-to-pytorch/data/
